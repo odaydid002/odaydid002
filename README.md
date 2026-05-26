@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on rails 🔥**
 
-- 👨‍💻 All of my projects are available at [http://oudai-div.app](http://oudai-div.vercel.app)
+- 👨‍💻 All of my projects are available at [http://oudai-div.app](http://oday-div.vercel.app)
 
 - 💬 Ask me about **anything about Javascript 🧐**
 
